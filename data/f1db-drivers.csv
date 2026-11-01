@@ -1,0 +1,45 @@
+id,name,firstName,lastName,fullName,abbreviation,permanentNumber,gender,dateOfBirth,dateOfDeath,placeOfBirth,countryOfBirthCountryId,nationalityCountryId,secondNationalityCountryId,bestChampionshipPosition,bestStartingGridPosition,bestRaceResult,bestSprintRaceResult,totalChampionshipWins,totalRaceEntries,totalRaceStarts,totalRaceWins,totalRaceLaps,totalPodiums,totalPoints,totalChampionshipPoints,totalPolePositions,totalFastestLaps,totalSprintRaceStarts,totalSprintRaceWins,totalDriverOfTheDay,totalGrandSlams
+alexander-albon,Alexander Albon,Alexander,Albon,Alexander Philippe Albon Ansusinha,ALB,23,MALE,1996-03-23,,London,united-kingdom,thailand,,7,4,3,6,0,147,145,0,7824,2,318,318,0,1,27,0,4,0
+antonio-giovinazzi,Antonio Giovinazzi,Antonio,Giovinazzi,Antonio Maria Giovinazzi,GIO,,MALE,1993-12-14,,Martina Franca,italy,italy,,17,7,5,8,0,62,62,0,3416,0,21,21,0,0,3,0,0,0
+arvid-lindblad,Arvid Lindblad,Arvid,Lindblad,Arvid Anand Olof Lindblad,LIN,41,MALE,2007-08-08,,Virginia Water,united-kingdom,united-kingdom,,,7,6,8,0,18,17,0,1001,0,38,38,0,0,5,0,0,0
+brendon-hartley,Brendon Hartley,Brendon,Hartley,Brendon Morris Hartley,HAR,,MALE,1989-11-10,,Palmerston North,new-zealand,new-zealand,,19,6,9,,0,25,25,0,1178,0,4,4,0,0,0,0,0,0
+carlos-sainz-jr,Carlos Sainz Jr.,Carlos,Sainz Jr.,Carlos Sainz Vázquez de Castro,SAI,55,MALE,1994-09-01,,Madrid,spain,spain,,5,1,1,2,0,250,247,4,13360,29,1343.5,1343.5,6,4,30,0,8,0
+charles-leclerc,Charles Leclerc,Charles,Leclerc,Charles Marc Hervé Perceval Leclerc,LEC,16,MALE,1997-10-16,,Monte Carlo,monaco,monaco,,2,1,1,2,0,191,189,9,10297,56,1905,1905,27,15,29,0,21,1
+daniel-ricciardo,Daniel Ricciardo,Daniel,Ricciardo,Daniel Joseph Ricciardo,RIC,,MALE,1989-07-01,,Perth,australia,australia,,3,1,1,3,0,257,257,8,14129,32,1329,1329,3,17,12,0,11,0
+daniil-kvyat,Daniil Kvyat,Daniil,Kvyat,Daniil Vyacheslavovich Kvyat,KVY,,MALE,1994-04-26,,Ufa,russia,russia,,7,4,2,,0,112,110,0,5828,3,202,202,0,1,0,0,1,0
+esteban-ocon,Esteban Ocon,Esteban,Ocon,Esteban José Jean-Pierre Ocon-Khelfane,OCO,31,MALE,1996-09-17,,Évreux,france,france,,8,3,1,5,0,198,198,1,10726,4,490,490,0,1,30,0,1,0
+fernando-alonso,Fernando Alonso,Fernando,Alonso,Fernando Alonso Díaz,ALO,14,MALE,1981-07-29,,Oviedo,spain,spain,,1,1,1,5,2,446,444,32,23953,106,2400,2400,22,26,29,0,7,1
+franco-colapinto,Franco Colapinto,Franco,Colapinto,Franco Alejandro Colapinto,COL,43,MALE,2003-05-27,,Pilar,argentina,argentina,,19,7,6,9,0,45,44,0,2446,0,32,32,0,0,13,0,0,0
+gabriel-bortoleto,Gabriel Bortoleto,Gabriel,Bortoleto,Gabriel Lourenzo Bortoleto Oliveira,BOR,5,MALE,2004-10-14,,Osasco,brazil,brazil,,19,7,6,9,0,42,41,0,2186,0,29,29,0,0,12,0,2,0
+george-russell,George Russell,George,Russell,George William Russell,RUS,63,MALE,1998-02-15,,King's Lynn,united-kingdom,united-kingdom,,4,1,1,1,0,170,170,8,9580,32,1275,1275,12,13,30,4,1,0
+guanyu-zhou,Guanyu Zhou,Guanyu,Zhou,Guanyu Zhou,ZHO,24,MALE,1999-05-30,,Shanghai,china,china,,18,5,8,9,0,68,68,0,3649,0,16,16,0,2,15,0,1,0
+isack-hadjar,Isack Hadjar,Isack,Hadjar,Isack Alexandre Hadjar,HAD,6,MALE,2004-09-28,,Paris,france,france,,12,3,3,8,0,39,39,0,2136,3,156,156,0,0,11,0,1,0
+jack-aitken,Jack Aitken,Jack,Aitken,Jack Anthony Han-Aitken,AIT,,MALE,1995-09-23,,London,united-kingdom,united-kingdom,,22,17,16,,0,1,1,0,87,0,0,0,0,0,0,0,0,0
+jack-doohan,Jack Doohan,Jack,Doohan,Jack Michael Doohan,DOO,7,MALE,2003-01-20,,Gold Coast,australia,australia,,21,11,13,16,0,7,7,0,272,0,0,0,0,0,2,0,0,0
+kevin-magnussen,Kevin Magnussen,Kevin,Magnussen,Kevin Jan Magnussen,MAG,20,MALE,1992-10-05,,Roskilde,denmark,denmark,,9,4,2,7,0,186,185,0,9898,1,202,202,1,3,14,0,1,0
+kimi-antonelli,Kimi Antonelli,Kimi,Antonelli,Andrea Kimi Antonelli,ANT,12,MALE,2006-08-25,,Bologna,italy,italy,,7,1,1,1,0,42,42,9,2383,18,515,515,7,10,12,1,5,1
+kimi-raikkonen,Kimi Räikkönen,Kimi,Räikkönen,Kimi-Matias Räikkönen,RAI,,MALE,1979-10-17,,Espoo,finland,finland,,1,1,1,13,1,352,350,21,18621,103,1873,1873,18,46,2,0,5,0
+lance-stroll,Lance Stroll,Lance,Stroll,Lance Strulovitch,STR,18,MALE,1998-10-29,,Montreal,canada,canada,,10,1,3,4,0,210,207,0,11040,3,325,325,1,0,30,0,1,0
+lando-norris,Lando Norris,Lando,Norris,Lando Norris,NOR,4,MALE,1999-11-13,,Bristol,united-kingdom,united-kingdom,,1,1,1,1,1,170,169,13,9627,49,1641,1641,19,20,30,4,19,0
+lewis-hamilton,Lewis Hamilton,Lewis,Hamilton,Lewis Carl Davidson Hamilton,HAM,44,MALE,1985-01-07,,Stevenage,united-kingdom,united-kingdom,,1,1,1,1,7,398,398,106,22682,208,5259.5,5259.5,104,69,30,1,20,6
+liam-lawson,Liam Lawson,Liam,Lawson,Liam Jared Lawson,LAW,30,MALE,2002-02-11,,Hastings,new-zealand,new-zealand,,14,3,5,5,0,53,53,0,2946,0,121,121,0,0,16,0,0,0
+logan-sargeant,Logan Sargeant,Logan,Sargeant,Logan Hunter Sargeant,SAR,2,MALE,2000-12-31,,Fort Lauderdale,united-states-of-america,united-states-of-america,,21,6,10,10,0,36,36,0,1911,0,1,1,0,0,8,0,0,0
+marcus-ericsson,Marcus Ericsson,Marcus,Ericsson,Marcus Thorbjörn Ericsson,ERI,,MALE,1990-09-02,,Kumla,sweden,sweden,,17,6,8,,0,97,97,0,4899,0,18,18,0,0,0,0,0,0
+max-verstappen,Max Verstappen,Max,Verstappen,Max Emilian Verstappen,VER,3,MALE,1997-09-30,,Hasselt,belgium,netherlands,,1,1,1,1,4,251,251,73,13604,137,3680.5,3680.5,50,38,30,14,55,6
+mick-schumacher,Mick Schumacher,Mick,Schumacher,Mick Schumacher,MSC,,MALE,1999-03-22,,Vufflens-le-Château,switzerland,germany,,16,6,6,9,0,44,43,0,2277,0,12,12,0,0,6,0,1,0
+nicholas-latifi,Nicholas Latifi,Nicholas,Latifi,Nicholas Daniel Latifi,LAT,,MALE,1995-06-29,,Montreal,canada,canada,,17,10,7,14,0,61,61,0,3261,0,9,9,0,0,6,0,1,0
+nico-hulkenberg,Nico Hülkenberg,Nico,Hülkenberg,Nicolas Hülkenberg,HUL,27,MALE,1987-08-19,,Emmerich am Rhein,germany,germany,,7,1,3,6,0,272,267,0,13987,1,635,635,1,2,23,0,4,0
+nikita-mazepin,Nikita Mazepin,Nikita,Mazepin,Nikita Dmitriyevich Mazepin,MAZ,,MALE,1999-03-02,,Moscow,russia,russia,,21,15,14,17,0,22,21,0,1008,0,0,0,0,0,3,0,1,0
+nyck-de-vries,Nyck de Vries,Nyck,De Vries,Hendrik Johannes Nicasius de Vries,DEV,,MALE,1995-02-06,,Uitwellingerga,netherlands,netherlands,,21,8,9,14,0,11,11,0,614,0,2,2,0,0,2,0,1,0
+oliver-bearman,Oliver Bearman,Oliver,Bearman,Oliver James Bearman,BEA,87,MALE,2005-05-08,,Havering,united-kingdom,united-kingdom,,13,8,4,6,0,45,45,0,2421,0,71,71,0,0,13,0,2,0
+oscar-piastri,Oscar Piastri,Oscar,Piastri,Oscar Jack Piastri,PIA,81,MALE,2001-04-06,,Melbourne,australia,australia,,3,1,1,1,0,88,86,9,4920,28,943,943,6,9,24,3,6,1
+pierre-gasly,Pierre Gasly,Pierre,Gasly,Pierre Jean-Jacques Gasly,GAS,10,MALE,1996-02-07,,Rouen,france,france,,7,1,1,3,0,196,195,1,10619,5,500,500,1,3,30,0,3,0
+pietro-fittipaldi,Pietro Fittipaldi,Pietro,Fittipaldi,Pietro Fittipaldi da Cruz,FIT,,MALE,1996-06-25,,Miami,united-states-of-america,brazil,,23,17,17,,0,2,2,0,140,0,0,0,0,0,0,0,0,0
+robert-kubica,Robert Kubica,Robert,Kubica,Robert Józef Kubica,KUB,,MALE,1984-12-07,,Kraków,poland,poland,,4,1,1,18,0,99,99,1,5505,12,274,274,1,1,1,0,1,0
+romain-grosjean,Romain Grosjean,Romain,Grosjean,Romain David Jeremie Grosjean,GRO,,MALE,1986-04-17,,Geneva,switzerland,france,switzerland,7,2,2,,0,181,179,0,8848,10,391,391,0,1,0,0,3,0
+sebastian-vettel,Sebastian Vettel,Sebastian,Vettel,Sebastian Vettel,VET,,MALE,1987-07-03,,Heppenheim,germany,germany,,1,1,1,8,4,300,299,53,16426,122,3098,3098,57,38,6,0,23,4
+sergey-sirotkin,Sergey Sirotkin,Sergey,Sirotkin,Sergey Olegovich Sirotkin,SIR,,MALE,1995-08-27,,Moscow,russia,russia,,20,11,10,,0,21,21,0,1118,0,1,1,0,0,0,0,0,0
+sergio-perez,Sergio Pérez,Sergio,Pérez,Sergio Michel Pérez Mendoza,PER,11,MALE,1990-01-26,,Guadalajara,mexico,mexico,,2,1,1,1,0,301,299,6,16379,39,1638,1638,3,12,24,1,13,0
+stoffel-vandoorne,Stoffel Vandoorne,Stoffel,Vandoorne,Stoffel Jacques Luc Vandoorne,VAN,,MALE,1992-03-26,,Kortrijk,belgium,belgium,,16,7,7,,0,42,41,0,2207,0,26,26,0,0,0,0,0,0
+valtteri-bottas,Valtteri Bottas,Valtteri,Bottas,Valtteri Viktor Bottas,BOT,77,MALE,1989-08-28,,Nastola,finland,finland,,2,1,1,1,0,265,264,10,14569,67,1797,1797,20,19,24,2,5,0
+yuki-tsunoda,Yuki Tsunoda,Yuki,Tsunoda,Yuki Tsunoda,TSU,22,MALE,2000-05-11,,Sagamihara,japan,japan,,12,3,4,5,0,117,114,0,6196,0,125,125,0,1,25,0,2,0
